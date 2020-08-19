@@ -1,2 +1,3 @@
 Thay đổi
 Thay đổi lần 2
+Get pull từ server git hub về local
