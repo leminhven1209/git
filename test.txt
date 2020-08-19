@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Thay đổi
+=======
+Thay đổi
+Thay đổi lần 2
+Get pull từ server git hub về local
+>>>>>>> b1d93058e3bfac6535005ed0f1efafc66c965374
